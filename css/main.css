@@ -1,0 +1,117 @@
+body{
+    background-color: brown;
+    background-image: url("../rasmlar/b.jfif");
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: 384px 500px;
+}
+.text{
+    color: white;
+    border: 5px solid white;
+    /*border-width: 5px;*/
+    border-top-width: 2px;
+    border-right-width: 3px;
+    border-bottom-width: 4px;
+    border-left-width: 6px;
+    /*border-style: solid;*/
+    border-top-style: dashed;
+    border-right-style: double;
+    border-bottom-style: dotted;
+    border-left-style: ridge;
+    /*border-color: white;*/
+   border-top-color: yellow;
+    border-right-color: greenyellow;
+    border-bottom-color: cyan;
+    border-left-color: red;
+    text-align: left;
+    text-transform: none;
+    text-decoration:none;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    line-height: 20px;
+}
+
+.block{
+    color: black;
+    background-color: white;
+    width: 500px;
+    height: 200px;
+    /*min-width: 50px;*/
+    /*min-height: 50px;*/
+   /* max-width: 500px;*/
+   /* max-height: 500px;*/
+   /* margin: 50px 30px 10px 20px;*/
+    /*margin-top: 50px;*/
+    /*margin-right: 30px;*/
+   /* margin-bottom: 10px;*/
+    /* margin-left: 20px;*/
+    margin: 50px auto;
+    /*padding: 50px 20px 30px 35px;*/
+    /*padding-top: 50px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 35px;*/
+    padding: 50px 50px;
+    box-sizing: border-box;
+
+}
+
+h1{
+    color: yellowgreen;
+
+    border: 3px solid yellowgreen;
+
+    border-top-color: yellow;
+    border-right-color: greenyellow;
+    border-bottom-color: cyan;
+    border-left-color: red;
+}
+h2{
+    color: yellowgreen;
+
+    border: 3px dashed blue;
+
+    border-top-color: yellow;
+    border-right-color: greenyellow;
+    border-bottom-color: cyan;
+    border-left-color: red;
+}
+h3{
+    color: yellowgreen;
+
+    border: 3px double blue;
+
+    border-top-color: yellow;
+    border-right-color: greenyellow;
+    border-bottom-color: cyan;
+    border-left-color: red;
+}
+h4{
+    color: yellowgreen;
+
+    border: 3px inset blue;
+
+    border-top-color: yellow;
+    border-right-color: greenyellow;
+    border-bottom-color: cyan;
+    border-left-color: red;
+}
+h5{
+    color: yellowgreen;
+
+    border: 3px dotted blue;
+    border-top-color: yellow;
+    border-right-color: greenyellow;
+    border-bottom-color: cyan;
+    border-left-color: red;
+}
+h6{
+    color: yellowgreen;
+
+    border: 3px ridge blue;
+
+    border-top-color: yellow;
+    border-right-color: greenyellow;
+    border-bottom-color: cyan;
+    border-left-color: red;
+}

@@ -1,0 +1,123 @@
+
+     .bir{
+         width: 100px;
+         height: 100px;
+         border: 10 px dashed white;
+         padding-top: 40px;
+         padding-right: 50px;
+         padding-bottom: 50px;
+         padding-left: 25px;
+         box-sizing: border-box;
+         margin-top: -150px;
+         margin-right: 50px;
+         margin-bottom: 50px;
+         margin-left: 200px;
+         border-radius: 30px;
+         border: 15px solid green;
+     }
+     .ikki{
+         width: 100px;
+         height: 100px;
+         border: 10 px dotted white;
+         padding-top: 40px;
+         padding-right: 50px;
+         padding-bottom: 50px;
+         padding-left: 25px;
+         box-sizing: border-box;
+         margin-top: -150px;
+         margin-right: 50px;
+         margin-bottom: 50px;
+         margin-left: 350px;
+         border-radius: 30px;
+     }
+     .uch{
+         width: 100px;
+         height: 100px;
+         border: 10 px double white;
+         padding-top: 40px;
+         padding-right: 50px;
+         padding-bottom: 50px;
+         padding-left: 25px;
+         box-sizing: border-box;
+         margin-top: -150px;
+         margin-right: 50px;
+         margin-bottom: 50px;
+         margin-left: 500px;
+         border-radius: 30px;
+     }
+     .tort{
+         width: 100px;
+         height: 100px;
+         border: 10 px dotted white;
+         padding-top: 40px;
+         padding-right: 50px;
+         padding-bottom: 50px;
+         padding-left: 25px;
+         box-sizing: border-box;
+         margin-top: -150px;
+         margin-right: 50px;
+         margin-bottom: 50px;
+         margin-left: 350px;
+         border-radius: 30px;
+     }
+     .besh{
+         width: 100px;
+         height: 100px;
+         border: 10 px inset white;
+         padding-top: 40px;
+         padding-right: 50px;
+         padding-bottom: 50px;
+         padding-left: 30px;
+         box-sizing: border-box;
+         margin-top: 50px;
+         margin-right: 50px;
+         margin-bottom: 50px;
+         margin-left: 50px;
+         border-radius: 30px;
+     }
+     .olti{
+         width: 100px;
+         height: 100px;
+         border: 10 px outset white;
+         padding-top: 40px;
+         padding-right: 50px;
+         padding-bottom: 50px;
+         padding-left: 30px;
+         box-sizing: border-box;
+         margin-top: -150px;
+         margin-right: 50px;
+         margin-bottom: 50px;
+         margin-left: 200px;
+         border-radius: 30px;
+     }
+     .yetti{
+         width: 100px;
+         height: 100px;
+         border: 10 px groove white;
+         padding-top: 40px;
+         padding-right: 50px;
+         padding-bottom: 50px;
+         padding-left: 25px;
+         box-sizing: border-box;
+         margin-top: -150px;
+         margin-right: 50px;
+         margin-bottom: 50px;
+         margin-left: 350px;
+         border-radius: 30px;
+     }
+     .sakkiz{
+         width: 100px;
+         height: 100px;
+         border: 10 px ridge white;
+         padding-top: 40px;
+         padding-right: 50px;
+         padding-bottom: 50px;
+         padding-left: 30px;
+         box-sizing: border-box;
+         margin-top: -150px;
+         margin-right: 50px;
+         margin-bottom: 50px;
+         margin-left: 500px;
+         border-radius: 30px;
+
+     }
